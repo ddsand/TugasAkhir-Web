@@ -1,0 +1,62 @@
+[27-May-2019 04:55:29 UTC] PHP Notice:  Undefined index: email in /home/u6564728/public_html/markeett/services/client.php on line 167
+[27-May-2019 04:55:29 UTC] PHP Notice:  Undefined index: password in /home/u6564728/public_html/markeett/services/client.php on line 168
+[27-May-2019 05:10:37 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 05:53:28 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 06:39:31 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/u6564728/public_html/markeett/services/client.php on line 184
+[27-May-2019 06:40:19 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/u6564728/public_html/markeett/services/client.php on line 184
+[27-May-2019 06:41:18 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/u6564728/public_html/markeett/services/client.php on line 184
+[27-May-2019 06:42:08 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/u6564728/public_html/markeett/services/client.php on line 184
+[27-May-2019 06:43:02 UTC] PHP Notice:  Undefined variable: userlogin in /home/u6564728/public_html/markeett/services/client.php on line 174
+[27-May-2019 06:43:13 UTC] PHP Notice:  Undefined variable: userlogin in /home/u6564728/public_html/markeett/services/client.php on line 174
+[27-May-2019 06:43:24 UTC] PHP Notice:  Undefined variable: userlogin in /home/u6564728/public_html/markeett/services/client.php on line 174
+[27-May-2019 06:43:30 UTC] PHP Notice:  Undefined variable: userlogin in /home/u6564728/public_html/markeett/services/client.php on line 174
+[27-May-2019 06:53:14 UTC] PHP Notice:  Undefined variable: response in /home/u6564728/public_html/markeett/services/client.php on line 204
+[27-May-2019 06:53:14 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 205
+[27-May-2019 06:56:03 UTC] PHP Notice:  Undefined variable: response in /home/u6564728/public_html/markeett/services/client.php on line 204
+[27-May-2019 06:56:03 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 205
+[27-May-2019 06:58:14 UTC] PHP Notice:  Undefined variable: response in /home/u6564728/public_html/markeett/services/client.php on line 204
+[27-May-2019 06:58:14 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 205
+[27-May-2019 07:00:24 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 205
+[27-May-2019 07:13:00 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/u6564728/public_html/markeett/services/client.php:205
+Stack trace:
+#0 /home/u6564728/public_html/markeett/services/API.php(142): CLIENT->findUserApi()
+#1 /home/u6564728/public_html/markeett/services/API.php(433): API->getLoginApi()
+#2 /home/u6564728/public_html/markeett/services/API.php(452): API->processApi()
+#3 {main}
+  thrown in /home/u6564728/public_html/markeett/services/client.php on line 205
+[27-May-2019 07:15:57 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/u6564728/public_html/markeett/services/client.php on line 184
+[27-May-2019 07:16:43 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/u6564728/public_html/markeett/services/client.php on line 184
+[27-May-2019 07:17:27 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 07:18:54 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 07:18:54 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 201
+[27-May-2019 07:20:08 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 07:20:08 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 201
+[27-May-2019 07:21:17 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 07:21:17 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 201
+[27-May-2019 07:21:50 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 07:21:50 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 201
+[27-May-2019 07:24:34 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 07:24:34 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 201
+[27-May-2019 08:48:20 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 08:48:20 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 201
+[27-May-2019 08:55:02 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 08:55:34 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 08:55:34 UTC] PHP Notice:  Undefined property: stdClass::$token in /home/u6564728/public_html/markeett/services/client.php on line 202
+[27-May-2019 08:59:04 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 08:59:04 UTC] PHP Notice:  Undefined variable: hasil in /home/u6564728/public_html/markeett/services/client.php on line 202
+[27-May-2019 08:59:04 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 202
+[27-May-2019 09:04:02 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[27-May-2019 09:04:02 UTC] PHP Notice:  Undefined variable: hasil in /home/u6564728/public_html/markeett/services/client.php on line 202
+[27-May-2019 09:04:02 UTC] PHP Notice:  Trying to get property 'token' of non-object in /home/u6564728/public_html/markeett/services/client.php on line 202
+[27-May-2019 09:05:46 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[29-May-2019 00:20:58 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[29-May-2019 06:07:41 UTC] PHP Notice:  Undefined index: name in /home/u6564728/public_html/markeett/services/client.php on line 255
+[29-May-2019 06:14:08 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 272
+[29-May-2019 06:14:08 UTC] PHP Notice:  Undefined variable: reponse in /home/u6564728/public_html/markeett/services/client.php on line 293
+[29-May-2019 06:15:29 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 272
+[29-May-2019 06:15:30 UTC] PHP Notice:  Undefined variable: reponse in /home/u6564728/public_html/markeett/services/client.php on line 293
+[29-May-2019 06:18:40 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 278
+[29-May-2019 06:56:33 UTC] PHP Notice:  Undefined index: user in /home/u6564728/public_html/markeett/services/client.php on line 155
+[29-May-2019 07:01:55 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[29-May-2019 07:06:09 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
+[30-May-2019 04:19:10 UTC] PHP Notice:  Undefined variable: fields_string in /home/u6564728/public_html/markeett/services/client.php on line 179
