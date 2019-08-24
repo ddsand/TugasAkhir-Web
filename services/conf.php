@@ -8,16 +8,13 @@ class CONF {
     /* Data configuration for database */
     public $DB_SERVER   = "localhost";
     public $DB_USER     = "u6564728_dewi";
-    public $DB_PASSWORD = "rikudosannin12;";
-    public $DB_NAME     = "u6564728_market";
+    public $DB_PASSWORD = "xxxxxxxxxxxxxxxxx";
+    public $DB_NAME     = "xxxxxxxxxxxxxxxxx";
 
     /* FCM key for notification */
-    public $FCM_KEY     = "AIzaSyCnbalgrIE7VuGzThPgPMuSII146mS4-Es";
+    public $FCM_KEY     = "API FCM";
 
-
-    /* [ IMPORTANT ] be careful when edit this security code, use AlphaNumeric only*/
-    /* This string must be same with security code at Android, if its different android unable to submit order */
-    public $SECURITY_CODE = "FgODeKc7LPLc6jV0iEnZCn43QjRKRAe1aiMeMfMAEqctJ0dA1S7EzGUAZpB05mug2wUvF3vASxvlPqWWZu4sqk7IgxBYbAVoQUZV";
+    public $SECURITY_CODE = "XXXX";
 
     /* Mailer config ---------------------------------------------------- */
 
